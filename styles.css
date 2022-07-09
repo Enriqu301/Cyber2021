@@ -5,3 +5,7 @@ body {
 #banner {
     text-align: center;
 }
+
+li {
+    display: inline;
+}
