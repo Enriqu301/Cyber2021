@@ -7,5 +7,6 @@ body {
 }
 
 li {
-    display: inline;
+    padding-right: 50px;
+    text-align: center;
 }
