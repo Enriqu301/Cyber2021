@@ -4,17 +4,13 @@ body {
 
 #banner {
     text-align: center;
+    border: solid red;
+    margin: 50px 50px;
 }
 
-li {
-    padding-right: 50px;
-    text-align: center;
-}
-
-h1 {
+h1 p {
     color: white;
 }
-
-p {
-    color: white;
+* {
+    box-sizing: border-box;
 }
