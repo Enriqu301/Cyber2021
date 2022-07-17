@@ -1,9 +1,13 @@
 body {
     background-color: black;
-    color: white;
+    color: black;
 }
 
 table, th, td {
     border: 1px solid red;
     margin-left: auto;
+}
+
+img {
+    border: solid red;
 }
