@@ -1,0 +1,6 @@
+.container {
+    background-color: red;
+    background: url(Assets/CP\ 2021.png ) center center no-repeat;
+    display: flex;
+    align-items: center;
+}
