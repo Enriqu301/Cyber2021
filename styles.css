@@ -4,13 +4,9 @@ body {
 
 #banner {
     text-align: center;
-    border: solid red;
     margin: 50px 50px;
 }
 
 h1 p {
     color: white;
-}
-* {
-    box-sizing: border-box;
 }
